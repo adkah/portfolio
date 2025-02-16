@@ -1,5 +1,5 @@
 ---
-title: Guide to managing products
+title: Manage your Products
 layout: default
 parent: Portfolio
 nav_order: 2

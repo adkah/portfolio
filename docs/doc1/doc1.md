@@ -1,5 +1,5 @@
 ---
-title: Setup guide
+title: Setup your Integration
 layout: default
 parent: Portfolio
 nav_order: 1
