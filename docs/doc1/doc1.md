@@ -89,8 +89,8 @@ To start using your integration, you need to download the \[Company 2\]/\[Compan
 
 2.  Click **Download**. The plugin will begin downloading as a `.zip` file.
     
-{: .warning }
-IMPORTANT: Do not unzip the file or try to access its contents on your computer. It is only compatible with \[Company 1\].
+    {: .warning }
+    IMPORTANT: Do not unzip the file or try to access its contents on your computer. It is only compatible with \[Company 1\].
 
 3.  Once the plugin has been downloaded, login to your \[Company 1\] account. On the left sidebar, navigate to **Plugins**:
     
@@ -158,8 +158,8 @@ The \[Company 2\]/\[Company 1\] Webhook allows your integration to handle new or
 
     ![Image17.png](Images/Image17.png)
 
-{: .note }
-New orders in \[Company 1\] will only be pulled into \[Company 2\] once they reach the status you specify here. We recommend choosing the **Processing** status.
+    {: .note }
+    New orders in \[Company 1\] will only be pulled into \[Company 2\] once they reach the status you specify here. We recommend choosing the **Processing** status.
 
 3.  Select your preferred status. Done!
     
@@ -183,16 +183,16 @@ New orders in \[Company 1\] will only be pulled into \[Company 2\] once they rea
 
 4.  Fill the fields with the following information:
     
-| **Field**       | Value                                                                                                  |
-|-----------------|--------------------------------------------------------------------------------------------------------|
-| **Name**        | Order Updated                                                                                          |
-| **Status**      | Active                                                                                                 |
-| **Topic**       | Order Updated                                                                                          |
-| **DeliveryURL** | [https://\[Company 2\].com/api/plugins/\[Company 1\]/Order/v2/Hook/](){**api\_key**}* |
-| **Secret**      | (This field will auto-populate once you’ve entered the Delivery URL)                                   |
+    | **Field**       | Value                                                                                                  |
+    |-----------------|--------------------------------------------------------------------------------------------------------|
+    | **Name**        | Order Updated                                                                                          |
+    | **Status**      | Active                                                                                                 |
+    | **Topic**       | Order Updated                                                                                          |
+    | **DeliveryURL** | [https://\[Company 2\].com/api/plugins/\[Company 1\]/Order/v2/Hook/](){**api\_key**}* |
+    | **Secret**      | (This field will auto-populate once you’ve entered the Delivery URL)                                   |
 
-{: .note }
-*Replace **api\_key** with [your own \[Company 2\]/\[Company 1\] API key.](#to-generate-your-unique-api-key)
+    {: .note }
+    *Replace **api\_key** with [your own \[Company 2\]/\[Company 1\] API key.](#to-generate-your-unique-api-key)
 
 5.  Click **Save Webhook**. Done!
     

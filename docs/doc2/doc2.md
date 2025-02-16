@@ -58,17 +58,17 @@ Once you’ve reviewed how product data is mapped between \[Company 2\] and \[Co
 
     ![Image3.png](Images/Image3.png)
 
-Click **\+** to select one or more fulfillment sources for this product:
+    Click **\+** to select one or more fulfillment sources for this product:
 
-|                              | **Fulfilled by Supplier**             | **Fulfilled by you**            |
-|------------------------------|---------------------------------------|---------------------------------|
-| **Dropship**                 | ✓ Supplier ships directly to customer |                                 |
-| **Via Supplier’s Inventory** | ✓ Supplier ships to you               | ✓ You ship to customer          |
-| **Via My Inventory**         |                                       | ✓ You ship directly to customer |
-    
+    |                              | **Fulfilled by Supplier**             | **Fulfilled by you**            |
+    |------------------------------|---------------------------------------|---------------------------------|
+    | **Dropship**                 | ✓ Supplier ships directly to customer |                                 |
+    | **Via Supplier’s Inventory** | ✓ Supplier ships to you               | ✓ You ship to customer          |
+    | **Via My Inventory**         |                                       | ✓ You ship directly to customer |
+        
 
-{: .note }
-You can only select **My Inventory** if you have purchased the product and have it in stock.
+    {: .note }
+    You can only select **My Inventory** if you have purchased the product and have it in stock.
 
 Assign pricing
 --------------
@@ -96,8 +96,8 @@ Once you’ve selected your fulfillment sources, you will have the option to adj
 
     ![Image7.png](Images/Image7.png)
 
-{: .note }
-If you would like to set discounts for products, you can also select **Online Retail Sale Price**.
+    {: .note }
+    If you would like to set discounts for products, you can also select **Online Retail Sale Price**.
 
 4.  Click **Apply.** You will then have the option to set prices for your products. Done!
     
