@@ -9,13 +9,4 @@ aux_links:
 
 search_enabled: false
 
-callouts:
-  warning:
-    title: Warning
-    color: yellow
-  note:
-    title: Note
-    color: purple
-  info:
-    title: Info
-    color: blue
+callou

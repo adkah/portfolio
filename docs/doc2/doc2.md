@@ -150,6 +150,4 @@ You can easily remove a product from \[Company 1\]:
 
 ![Image4.png](Images/Image4.png)
 
-3.  Under **Show on \[Company 1\]**, you will see any fulfillment sources assigned to this product. Click the red garbage bin on these fulfillment sources.
-    
-4.  Done! The product has been removed from \[Company 1\].
+3.  Under **Show on \[Company 1\]**, you will see any fulfillment sources assigned to this product. Click the red garbage bin on these fulfillm
