@@ -11,8 +11,8 @@ Hi there! I'm Adrian, an experienced and detail-oriented **technical writer**.
  
  Click the links below to view samples of my work.
 
-* [Setup guide]({% link docs/doc1/doc1.md %})
-* [Guide to managing products]({% link docs/doc2/doc2.md %})
+* [Setup your Integration]({% link docs/doc1.md %})
+* [Manage your Products]({% link docs/doc2.md %})
 
 {: .info }
 For privacy reasons, sensitive information has been redacted from these writing samples.
