@@ -1,6 +1,6 @@
 ---
 title: Setup guide
-layout: Setup guide
+layout: default
 ---
 
 Setup your \[Company 1\] integration

@@ -1,6 +1,6 @@
 ---
 title: Guide to managing products
-layout: Guide to managing products
+layout: default
 ---
 
 Manage your Products in \[Company 2\]/\[Company 1\]
