@@ -1,3 +1,8 @@
+---
+title: Guide to managing products
+layout: Guide to managing products
+---
+
 Manage your Products in \[Company 2\]/\[Company 1\]
 ===================================================================
 

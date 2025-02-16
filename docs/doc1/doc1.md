@@ -1,3 +1,8 @@
+---
+title: Setup guide
+layout: Setup guide
+---
+
 Setup your \[Company 1\] integration
 ====================================================
 
