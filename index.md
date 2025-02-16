@@ -11,5 +11,5 @@ nav_order: 1
 {: .info }
 For privacy reasons, sensitive information has been redacted from these writing samples.
 
-* [Setup guide]({% link doc1.md %})
-* [Guide to managing products]({% link doc2.md %})
+* [Setup guide]({% link docs/doc1/doc1.md %})
+* [Guide to managing products]({% link docs/doc2/doc2.md %})
