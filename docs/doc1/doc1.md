@@ -33,7 +33,8 @@ Getting Started
 Generate your API key
 ---------------------
 
-> **ℹ** Your API key is unique to your \[Company 2\] account and should never be shared with anyone you don’t trust with your customer data.
+{: .warning }
+Your API key is unique to your \[Company 2\] account and should never be shared with anyone you don’t trust with your customer data.
 
 In order to properly integrate with \[Company 2\], you need to provide \[Company 1\] with an \[Company 2\] API key. This lets \[Company 1\] access your \[Company 2\] account and sync customer data across both platforms.
 
@@ -87,8 +88,8 @@ To start using your integration, you need to download the \[Company 2\]/\[Compan
 
 2.  Click **Download**. The plugin will begin downloading as a `.zip` file.
     
-
-> **ℹ** IMPORTANT: Do not unzip the file or try to access its contents on your computer. It is only compatible with \[Company 1\].
+{: .warning }
+IMPORTANT: Do not unzip the file or try to access its contents on your computer. It is only compatible with \[Company 1\].
 
 3.  Once the plugin has been downloaded, login to your \[Company 1\] account. On the left sidebar, navigate to **Plugins**:
     
@@ -156,7 +157,8 @@ The \[Company 2\]/\[Company 1\] Webhook allows your integration to handle new or
 
 ![Image17.png](Images/Image17.png)
 
-> **ℹ** New orders in \[Company 1\] will only be pulled into \[Company 2\] once they reach the status you specify here. We recommend choosing the **Processing** status.
+{: .note }
+New orders in \[Company 1\] will only be pulled into \[Company 2\] once they reach the status you specify here. We recommend choosing the **Processing** status.
 
 3.  Select your preferred status. Done!
     
@@ -194,4 +196,5 @@ The \[Company 2\]/\[Company 1\] Webhook allows your integration to handle new or
     
 * * *
 
-> **ℹ** For a detailed guide on how to configure your integration behaviour, see [Manage your products in \[Company 2\]/\[Company 1\]]().
+{: .info }
+For a detailed guide on how to configure your integration behaviour, see [Manage your products in \[Company 2\]/\[Company 1\]]().

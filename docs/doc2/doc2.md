@@ -9,7 +9,8 @@ Manage your Products in \[Company 2\]/\[Company 1\]
 
 ### You have many options to manage how product data is transferred between \[Company 2\] and \[Company 1\]. This guide will help you configure the behaviour of your integration.
 
-> **ℹ** This guide assumes you’ve already [activated your \[Company 1\] integration]() and [installed the \[Company 2\] plugin]() for \[Company 1\].
+{: .info }
+This guide assumes you’ve already [activated your \[Company 1\] integration]() and [installed the \[Company 2\] plugin]() for \[Company 1\].
 
 *   [Understand how product data is mapped](#understand-how-product-data-is-mapped)
 *   [Choose a fulfillment source](#choose-a-fulfillment-source)
@@ -20,7 +21,8 @@ Manage your Products in \[Company 2\]/\[Company 1\]
 Understand how product data is mapped
 -------------------------------------
 
-> **ℹ** Before you start syncing products between \[Company 2\] and \[Company 1\], it’s a good idea to take a look at how product data is mapped between both platforms.
+{: .note }
+Before you start syncing products between \[Company 2\] and \[Company 1\], it’s a good idea to take a look at how product data is mapped between both platforms.
 
 | **[Company 1]**          | **[Company 2]**                 |
 |--------------------------|---------------------------------|
@@ -64,7 +66,8 @@ Click **\+** to select one or more fulfillment sources for this product:
 | **Via My Inventory**         |                                       | ✓ You ship directly to customer |
     
 
-> **ℹ** You can only select **My Inventory** if you have purchased the product and have it in stock.
+{: .note }
+You can only select **My Inventory** if you have purchased the product and have it in stock.
 
 Assign pricing
 --------------
@@ -92,7 +95,8 @@ Once you’ve selected your fulfillment sources, you will have the option to adj
 
 ![Image7.png](Images/Image7.png)
 
-> **ℹ** If you would like to set discounts for products, you can also select **Online Retail Sale Price**.
+{: .note }
+If you would like to set discounts for products, you can also select **Online Retail Sale Price**.
 
 4.  Click **Apply.** You will then have the option to set prices for your products. Done!
     
