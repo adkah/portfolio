@@ -1,6 +1,7 @@
 ---
 title: Setup guide
 layout: default
+nav_order: 2
 ---
 
 Setup your \[Company 1\] integration
