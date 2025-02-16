@@ -1,7 +1,8 @@
 ---
 title: Setup guide
 layout: default
-nav_order: 2
+parent: Portfolio
+nav_order: 1
 ---
 
 Setup your \[Company 1\] integration

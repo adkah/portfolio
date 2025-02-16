@@ -1,7 +1,8 @@
 ---
 title: Guide to managing products
 layout: default
-nav_order: 3
+parent: Portfolio
+nav_order: 2
 ---
 
 Manage your Products in \[Company 2\]/\[Company 1\]
