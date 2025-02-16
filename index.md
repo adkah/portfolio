@@ -7,9 +7,11 @@ has_toc: false
 
 # Technical Writing Portfolio
 
-Hi there! I'm Adrian, an experienced and detail-oriented **technical writer**.
- 
-Click the links below to view samples of my work.
+---
+
+Hi there! I'm Adrian, an experienced and detail-oriented **technical writer** based in Montreal, Canada.
+
+I specialize in creating concise, user-friendly documentation for complex software. Click the links below to view samples of my work:
 
 * [Setup your Integration]({% link docs/doc1.md %})
 * [Manage your Products]({% link docs/doc2.md %})
