@@ -5,8 +5,11 @@ theme: just-the-docs
 url: https://drink-rain.github.io/portfolio
 
 aux_links:
+  Resume: Adrian Kahali - Resume.pdf
   LinkedIn: https://www.linkedin.com/in/adrian-kahali-783897301/
   Source on GitHub: https://github.com/drink-rain/portfolio
+
+aux_links_new_tab: true
 
 search_enabled: false
 
