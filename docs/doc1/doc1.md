@@ -190,7 +190,8 @@ New orders in \[Company 1\] will only be pulled into \[Company 2\] once they rea
 | **DeliveryURL** | [https://\[Company 2\].com/api/plugins/\[Company 1\]/Order/v2/Hook/](){**api\_key**}* |
 | **Secret**      | (This field will auto-populate once you’ve entered the Delivery URL)                                   |
 
-> **ℹ** *Replace **api\_key** with [your own \[Company 2\]/\[Company 1\] API key](#to-generate-your-unique-api-key)
+{: .note }
+*Replace **api\_key** with [your own \[Company 2\]/\[Company 1\] API key](#to-generate-your-unique-api-key)
 
 5.  Click **Save Webhook**. Done!
     
