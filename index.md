@@ -7,7 +7,7 @@ has_toc: false
 
 # Technical Writing Portfolio
 
-Hi there! I'm Adrian, an experienced and detail-oriented **technical writer**, and this is my online portfolio.
+Hi there! I'm Adrian, an experienced and detail-oriented **technical writer**.
  
  Click the links below to view samples of my work.
 
