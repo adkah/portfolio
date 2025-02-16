@@ -7,7 +7,7 @@ url: https://drink-rain.github.io/portfolio
 aux_links:
   Template Repository: https://github.com/drink-rain/portfolio
 
-sesrch_enabled: false
+search_enabled: false
 
 callouts:
   warning:

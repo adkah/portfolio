@@ -197,4 +197,4 @@ New orders in \[Company 1\] will only be pulled into \[Company 2\] once they rea
 * * *
 
 {: .info }
-For a detailed guide on how to configure your integration behaviour, see [Manage your products in \[Company 2\]/\[Company 1\]]().
+For a detailed guide on how to configure your integration behav
