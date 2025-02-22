@@ -8,9 +8,8 @@ nav_order: 1
 Setup your \[Company 1\] integration
 ====================================================
 
-
-### With a plugin and a few customizations, your \[Company 1\] site will be ready to show off your wholesale catalog, all while protecting pricing behind a customer login. This guide will help you get started with your \[Company 1\] integration.
-
+With a plugin and a few customizations, your \[Company 1\] site will be ready to show off your wholesale catalog, all while protecting pricing behind a customer login. This guide will help you get started with your \[Company 1\] integration.
+{: .fs-6 .fw-300 }
 
 *   [Getting Started](#getting-started)
 *   [Generate your API key](#generate-your-api-key)

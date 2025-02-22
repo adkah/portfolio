@@ -8,7 +8,8 @@ nav_order: 2
 Manage your Products in \[Company 2\]/\[Company 1\]
 ===================================================================
 
-### You have many options to manage how product data is transferred between \[Company 2\] and \[Company 1\]. This guide will help you configure the behaviour of your integration.
+You have many options to manage how product data is transferred between \[Company 2\] and \[Company 1\]. This guide will help you configure the behaviour of your integration.
+{: .fs-6 .fw-300 }
 
 {: .info }
 This guide assumes you’ve already [activated your \[Company 1\] integration]() and [installed the \[Company 2\] plugin]() for \[Company 1\].
