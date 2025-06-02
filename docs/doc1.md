@@ -25,7 +25,7 @@ Getting Started
 1.  On the integrations page, scroll to the \[Company 1\] integration:
     
 
-    ![Image1.png](./Images/doc1/Image1.png)
+    ![Image1.png](Images/doc1/Image1.png)
 
 2.  Click the **Connect** button. You will see the following screen:
     
